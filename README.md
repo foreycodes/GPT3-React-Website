@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/foreycodes/GPT3-React-Website">
-    <img src="/src/assets/gpt3-img.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/HjRgevc.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Responsive React.js Webpage</h3>
