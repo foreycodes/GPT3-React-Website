@@ -118,7 +118,7 @@ Ensure you have downloaded and installed Node.
 - [x] React component reusability
 - [x] BEM (Block Element Modifier) CSS
 - [x] Responsive web design
-- [x] App deployment using Netlify
+- [x] App deployment using Netlify and Github Pages
 - [x] Github version control
 
 
