@@ -45,8 +45,8 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-            <a href="#live-project">Live Project</a>
       <ul>
+        <li><a href="#live-project">Live Project</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -63,13 +63,6 @@
   </ol>
 </details>
 
-
-### Live Project 
-View the project 🎉
-
-* [Netlify](https://forey-gpt3-react.netlify.app/)
-* [Github Pages](https://foreycodes.github.io/GPT3-React-Website/)
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -78,6 +71,11 @@ View the project 🎉
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Live Project 
+View the project 🎉
+
+* [Netlify](https://forey-gpt3-react.netlify.app/)
+* [Github Pages](https://foreycodes.github.io/GPT3-React-Website/)
 
 
 ### Built With
